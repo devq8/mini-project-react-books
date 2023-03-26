@@ -1,4 +1,15 @@
-# Mini-project
+# Mini-project-idea
+
+- The project involves creating a book website.
+- The website will have a home page.
+- The website will feature a book list page where all books will be displayed.
+- The book list page will have a button to add a new book to the list.
+- Users will be able to update the availability of existing books.
+- Users will be able to delete books from the list.
+- The website will have a details page for each book.
+- The details page will provide users with access to all relevant information about the book.
+
+## Steps
 
 - Create a wireframe for the project in 30 minutes using Figma.
 - Identify the components required for the project and create a separate file for each one.
